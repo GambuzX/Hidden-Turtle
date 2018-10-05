@@ -1,4 +1,4 @@
-# Hidden-Turtle
+# Hidden-Turtle :turtle: :bomb: :video_game:
 Find the hidden turtle in a minefield.
 
-Developed in free times to experiment with scheme
+Developed in my free times to experiment with scheme.
