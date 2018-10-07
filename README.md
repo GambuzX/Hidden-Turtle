@@ -2,7 +2,7 @@
 
 Game developed as my Final Project for the curricular unit FPRO.
 
-**Final grade: 19.5**
+**Project grade: 19.5**
 
 ### Description
 You are placed in a square minefield and have to find a turtle :turtle: hidden in it. 
