@@ -1,6 +1,7 @@
 # Hidden-Turtle :turtle: :bomb: :video_game:
 
 Game developed as my Final Project for the curricular unit FPRO.
+
 **Final grade: 19.5**
 
 ### Description
