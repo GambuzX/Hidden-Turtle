@@ -19,3 +19,6 @@ Watch out for the :bomb::bomb::bomb: !
 * **Date:** 1st Year, 1st Semester, 2017/2018
 * **Course:** [Fundamentos da Programação | Programming Fundamentals
 ](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399878 "FPRO") (FPRO)
+
+### Note
+I discovered the game may run very slowly on older computers. The reason is I developed it entirely on my high-spec machine and it never suggested any problem. May pick this up later to fix it.
